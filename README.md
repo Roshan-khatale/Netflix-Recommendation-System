@@ -1,3 +1,3 @@
 # Netflix Recommendation System
 
-Builds a simple movie recommender using cosine similarity and pandas.
+Content-based filtering using cosine similarity.
